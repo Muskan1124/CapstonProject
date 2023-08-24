@@ -1,2 +1,2 @@
-# CapstonProject
+# CapstoneProject
 Full stack project
